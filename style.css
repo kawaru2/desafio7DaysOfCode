@@ -19,9 +19,14 @@
     display: flex;
     gap: 8px;
     font-family: 'Inter', sans-serif;
-    font-size: 18px;
+    font-weight: 500;
     gap: 119px;
+}
+
+.conteudo-lateral-titulo {
+    font-size: 18px;
     color: #3A404E;
+    
 }
 
 .marca {
