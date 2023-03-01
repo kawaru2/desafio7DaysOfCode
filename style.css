@@ -24,9 +24,10 @@
 }
 
 .conteudo-lateral-titulo {
+    display: flex;
+    align-items: center;
     font-size: 18px;
     color: #3A404E;
-    
 }
 
 .marca {
@@ -62,6 +63,7 @@
     font-size: 16px;
     font-weight: 500;
     color: #667085;
+    cursor: pointer;
 }
 
 .cadastrar {
@@ -73,4 +75,5 @@
     padding: 10px;
     color: white;
     border-radius: 8px;
+    cursor: pointer;
 }
